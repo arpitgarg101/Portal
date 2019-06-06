@@ -1,0 +1,20 @@
+{
+    "company-name": "Company name",
+    "search": "Search",
+    "switch" : "Switch",
+    "dashboard": "Dashboard",
+    "orders": "Orders",
+    "products": "Products",
+    "customers": "Customers",
+    "reports": "Reports",
+    "integrations": "Integrations",
+    "saved-reports": "Saved Reports",
+    "current-month": "Current Month",
+    "last-quarter": "Last Quater",
+    "social-engagement": "Social Engagement",
+    "year-end-sale": "Year-end Sale",
+    "share": "Share",
+    "export": "Export",
+    "this-week": "This Week",
+    "header": "Header"
+}

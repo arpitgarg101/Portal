@@ -1,0 +1,32 @@
+*[dir="rtl"] body {
+	text-align: right;	
+}
+
+*[dir="rtl"] ul {
+	padding-inline-start: 0px;
+	padding-inline-end: 40px;
+}
+
+*[dir="rtl"] .btn-group>.btn-group:not(:first-child)>.btn,*[dir="rtl"] .btn-group>.btn:not(:first-child) {
+	border-top-right-radius:0;
+	border-bottom-right-radius:0;
+	border-top-left-radius: 3.2px;
+	border-bottom-left-radius: 3.2px;
+}
+
+*[dir="rtl"] .btn-group>.btn-group:not(:last-child)>.btn,*[dir="rtl"] .btn-group>.btn:not(:last-child):not(.dropdown-toggle) {
+	border-top-right-radius:3.2px;
+	border-bottom-right-radius:3.2px;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+*[dir="rtl"] .mr-2, *[dir="rtl"] .mx-2 {
+	margin-left: .5rem!important;
+	margin-right: 0rem!important;
+}
+
+*[dir="rtl"] .btn-group .btn+.btn {
+	margin-right: -1px;
+	margin-left: 0px;
+}
